@@ -1,2 +1,3 @@
-# the-room-of-requirements
-My Portfolio
+# WordPress Site
+
+Dockerized WordPress with GitHub Actions deployment.
